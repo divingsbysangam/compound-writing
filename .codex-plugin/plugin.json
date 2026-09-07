@@ -1,0 +1,35 @@
+{
+  "name": "sangam-writing-plugin",
+  "version": "1.0.0",
+  "description": "Compounding writing plugin for Divings by Sangam. Enforces two modes, mandatory contractions, zero em dashes, scaffolding default, and platform atomization.",
+  "author": {
+    "name": "Sangam Gella"
+  },
+  "homepage": "https://github.com/divingsbysangam/compound-writing",
+  "repository": "https://github.com/divingsbysangam/compound-writing",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "divings-by-sangam",
+    "substack",
+    "linkedin",
+    "voice",
+    "style-guide",
+    "agentic-writing",
+    "compound-writing"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Divings by Sangam Writing Plugin",
+    "shortDescription": "Full writing toolbox for Divings by Sangam with persistent compounding context",
+    "longDescription": "Provides the complete sw-* writing suite tailored specifically to Sangam's personal voice, Substack essays, Koe/Shipper LinkedIn captions, Gamma carousel outlines, and Salesforce technical rigor.",
+    "developerName": "Sangam Gella",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/divingsbysangam/compound-writing"
+  }
+}

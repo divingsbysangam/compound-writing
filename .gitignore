@@ -1,0 +1,12 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Backups & Temp files
+*.tmp
+*.bak
+*.swp
+
+# Local archive unpacks
+sangam_skill.md
+sangam-writing-style 1.skill

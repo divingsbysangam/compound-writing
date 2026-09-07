@@ -1,0 +1,62 @@
+pattern,category,replacement_or_fix
+delve,vocabulary,examine / explore / look at / dig into
+dive into,vocabulary,examine / explore / look at
+comprehensive,vocabulary,complete / thorough / detailed
+robust,vocabulary,reliable / solid / durable / resilient
+cutting-edge,vocabulary,modern / current / new
+utilize,vocabulary,use
+leverage,vocabulary,use / build on / apply
+crucial,vocabulary,important / key
+vital,vocabulary,important / key
+essential,vocabulary,necessary / key
+unlock,vocabulary,enable / open up / reveal
+unleash,vocabulary,release / enable / reveal
+supercharge,vocabulary,speed up / improve / strengthen
+game-changer,vocabulary,shift / breakthrough
+revolutionary,vocabulary,major / significant
+landscape,vocabulary,field / ecosystem / territory
+navigate,vocabulary,handle / work through / deal with
+streamline,vocabulary,simplify / clean up
+seamless,vocabulary,smooth / unified
+tapestry,vocabulary,mix / collection
+multifaceted,vocabulary,complex / varied
+myriad,vocabulary,many / numerous
+foster,vocabulary,encourage / build
+facilitate,vocabulary,help / enable
+enhance,vocabulary,improve / sharpen
+realm,vocabulary,area / field
+paradigm,vocabulary,model / approach
+synergy,vocabulary,coordination / alignment
+embark,vocabulary,start / begin
+journey,vocabulary,process / project / work
+plethora,vocabulary,many / excess
+testament,vocabulary,evidence / proof
+vibrant,vocabulary,active / energetic
+pivotal,vocabulary,key / critical turn
+basically,vocabulary,cut filler
+essentially,vocabulary,cut filler
+genuinely,vocabulary,cut filler
+honestly,vocabulary,cut filler
+straightforward,vocabulary,direct / simple
+deep dive,vocabulary,analysis / inspection
+Certainly,,sentence_opener,delete opener
+Moreover,,sentence_opener,delete opener or connect with semicolon
+Additionally,,sentence_opener,delete opener or connect with conjunction
+Furthermore,,sentence_opener,delete opener
+Indeed,,sentence_opener,delete opener
+Notably,,sentence_opener,delete opener
+In today's fast-paced world,phrase,cut opener entirely
+digital age,phrase,cut filler
+It's important to note,phrase,state the point directly
+When it comes to,phrase,cut phrase and name the subject
+In order to,phrase,to
+Whether you're a... or a...,phrase,state who this is for
+Let's dive in,phrase,cut transition
+Without further ado,phrase,cut transition
+At the end of the day,phrase,cut phrase
+It goes without saying,phrase,delete or state directly
+In conclusion,phrase,state the final action or feeling directly
+This comprehensive guide,phrase,delete
+Are you looking for,phrase,delete question hook
+Look no further,phrase,delete marketing cliché
+—,punctuation,ZERO em dashes: replace with hyphen comma colon or semicolon
