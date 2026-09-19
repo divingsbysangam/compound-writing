@@ -1,0 +1,15 @@
+{
+  "name": "Compound Writing Marketplace",
+  "description": "Context-first compounding writing plugin catalog for Claude Code, Cursor, Codex, Antigravity, and AI agent tools.",
+  "version": "1.0.0",
+  "repository": "https://github.com/divingsbysangam/compound-writing",
+  "plugins": [
+    {
+      "name": "sangam-writing-plugin",
+      "version": "1.0.0",
+      "description": "Context-first compounding writing plugin for Claude Code, Cursor, Codex, Antigravity and AI agent tools.",
+      "repository": "https://github.com/divingsbysangam/compound-writing",
+      "source": "github"
+    }
+  ]
+}
