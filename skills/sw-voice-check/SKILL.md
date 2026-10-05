@@ -1,4 +1,9 @@
----\nname: sw-voice-check\ndescription: Audit draft against Sangam's personal voice context.\n---\n\n# Voice Check
+---
+name: sw-voice-check
+description: Audit draft against Sangam's personal voice context.
+---
+
+# Voice Check
 
 Audits text against `context/VOICE.md`.
 
@@ -7,4 +12,4 @@ Audits text against `context/VOICE.md`.
 2. Real experience showing through (mistakes, numbers, actual work).
 3. Opinions stated directly, not softened into neutrality.
 4. At least one insight uncopyable from generic summaries.
-5. Voice recognizable without a byline.\n
+5. Voice recognizable without a byline.

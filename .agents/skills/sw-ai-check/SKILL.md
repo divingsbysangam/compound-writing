@@ -1,4 +1,9 @@
----\nname: sw-ai-check\ndescription: Purge synthetic residue, banned words, and zero em dashes.\n---\n\n# AI Check
+---
+name: sw-ai-check
+description: Purge synthetic residue, banned words, and zero em dashes.
+---
+
+# AI Check
 
 Rigorous anti-AI scrubbing.
 
@@ -6,4 +11,4 @@ Rigorous anti-AI scrubbing.
 1. **Em dashes: ZERO.** Replace with hyphens, commas, colons, semicolons, or periods.
 2. **Contractions: MANDATORY.** Catch any formal uncontracted phrases ("do not" -> "don't").
 3. **Banned Lexicon**: Scan against `context/references/banned_lexicon.csv` (delve, robust, landscape, crucial, tapestry, etc.).
-4. **Structural Overcompletion**: Cut unearned resolutions, neat triadic summaries, and false enthusiasm.\n
+4. **Structural Overcompletion**: Cut unearned resolutions, neat triadic summaries, and false enthusiasm.
