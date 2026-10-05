@@ -1,4 +1,9 @@
----\nname: sw-interview\ndescription: Interrogate the author to extract real memories, numbers, and build scenes.\n---\n\n# Interview
+---
+name: sw-interview
+description: Interrogate the author to extract real memories, numbers, and build scenes.
+---
+
+# Interview
 
 Mines Sangam's real experience before drafting begins. Live scene details must come from memory, never from model imagination.
 
@@ -7,4 +12,4 @@ Mines Sangam's real experience before drafting begins. Live scene details must c
 2. Demand physical scene markers: specific time, physical location, actions taken, error logs.
 3. Demand empirical numbers: cycle times, cost, duration, failure counts.
 4. Ask what broke first, what stung, and what was surprising.
-5. Record extracted details in the draft notes. Do not allow speculative decoration.\n
+5. Record extracted details in the draft notes. Do not allow speculative decoration.

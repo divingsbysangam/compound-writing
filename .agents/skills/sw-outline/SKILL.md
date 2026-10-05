@@ -1,4 +1,9 @@
----\nname: sw-outline\ndescription: Structure material into a 4-part short-form or 6-beat long-form arc.\n---\n\n# Outline
+---
+name: sw-outline
+description: Structure material into a 4-part short-form or 6-beat long-form arc.
+---
+
+# Outline
 
 Builds the structural skeleton for Substack.
 
@@ -15,4 +20,4 @@ Builds the structural skeleton for Substack.
   Beat 3: Turn arrives through an artifact (release note, log, announcement).
   Beat 4: Framework taught inside the story (first person).
   Beat 5: Framework diagnoses the narrator first.
-  Beat 6: Close on meaning plus action.\n
+  Beat 6: Close on meaning plus action.

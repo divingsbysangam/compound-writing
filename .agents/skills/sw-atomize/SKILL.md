@@ -1,4 +1,9 @@
----\nname: sw-atomize\ndescription: Transform approved Substack essay into LinkedIn caption and carousel.\n---\n\n# Atomize
+---
+name: sw-atomize
+description: Transform approved Substack essay into LinkedIn caption and carousel.
+---
+
+# Atomize
 
 Converts an approved Substack piece into social assets following `STYLE.md`.
 
@@ -11,4 +16,4 @@ Converts an approved Substack piece into social assets following `STYLE.md`.
 
 ## Carousel Outlines (Gamma)
 - Statement heading per slide.
-- Flowing sentences in slide body.\n
+- Flowing sentences in slide body.

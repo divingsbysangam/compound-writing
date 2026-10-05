@@ -1,4 +1,9 @@
----\nname: sw-brainstorm\ndescription: Surface promising raw material and angles.\n---\n\n# Brainstorm
+---
+name: sw-brainstorm
+description: Surface promising raw material and angles.
+---
+
+# Brainstorm
 
 Explores potential ideas within Sangam's two modes:
 - **Reflective Mode**: Mindset, stillness, systems of work, productivity paradoxes.
@@ -6,4 +11,4 @@ Explores potential ideas within Sangam's two modes:
 
 ## Rules
 - Focus on real tensions, counterintuitive observations, and unaddressed friction.
-- Avoid generic trend recaps or listicles.\n
+- Avoid generic trend recaps or listicles.

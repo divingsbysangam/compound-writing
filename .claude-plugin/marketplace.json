@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Context-first compounding writing plugin for Claude Code and AI agent tools.",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
       "name": "sangam-writing-plugin",
       "source": "./",
       "description": "Context-first compounding writing plugin for Claude Code, Cursor, Codex, Antigravity and AI agent tools.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Sangam Gella"
       },
